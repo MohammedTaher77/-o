@@ -1,0 +1,19 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN LOGIN:
+
+
+Username: ghamdan@admin.com
+Password: 123
+
+USER LOGIN:
+
+Username: mohammed@gmail.com
+Password: 123
+
+
+Done By : 
+---> Mohammed Taher (21_16_4056)
+---> Ghamdan Alyamani (21_16_4054)
+
+
